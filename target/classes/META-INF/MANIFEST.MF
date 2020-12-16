@@ -1,0 +1,10 @@
+Manifest-Version: 1.0
+Built-By: S D
+Build-Jdk: 14.0.2
+Implementation-Title: docker-spring-boot
+Implementation-Version: 1.0.0.RELEASE
+Implementation-Vendor-Id: com.sd.rest.webservices
+Implementation-URL: https://projects.spring.io/spring-boot/#/spring-boot
+ -starter-parent/docker-spring-boot
+Created-By: Maven Integration for Eclipse
+
