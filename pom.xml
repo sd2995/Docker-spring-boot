@@ -82,7 +82,7 @@
 					</execution>
 				</executions>
 				<configuration>
-					<repository>shubham/${project.artifactId}</repository>
+					<repository>shubhamdeshmukh/${project.artifactId}</repository>
 					<tag>${project.version}</tag>
 					<skipDockerInfo>true</skipDockerInfo>
 				</configuration>
